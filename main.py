@@ -163,7 +163,6 @@ if __name__ == "__main__":
     
     label_backspace.pack(side='top',fill="x")
     label_with_bg.pack(side='left',fill='both')
-    # label_status.pack(side='right',fill='both')
     button_status.pack(side='right',fill='both')
 
     
