@@ -1,4 +1,7 @@
-## Автокликер на основе компьютерного зрения
+> [!IMPORTANT]
+Project was archived due to the game shut down.
+
+## Autoclicker based on Computer Vision
 
 ![Снимок экрана (1)](https://github.com/user-attachments/assets/232749c4-22b3-4245-b4d2-66b7e97c2dc8)
 - Кликер работает не по API, он работает через компьютерное зрение
@@ -16,5 +19,6 @@
 Первоначальный автор скрипта и задумки: https://github.com/Prple69
 
 Допилил код и сделал GUI дорогой 'Я': https://github.com/Radma123
+
 
 
